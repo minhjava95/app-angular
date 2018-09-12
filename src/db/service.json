@@ -1,0 +1,24 @@
+{
+	"services": [
+		{
+			"img": "https://perfectimagecamera.com/wp-content/uploads/2018/02/DSLR-camera-perfect-image.jpg",
+			"name": "Camera",
+			"price": "1000"
+		},
+		{
+			"img": "https://perfectimagecamera.com/wp-content/uploads/2018/02/DSLR-camera-perfect-image.jpg",
+			"name": "Camera",
+			"price": "1000"
+		},
+		{
+			"img": "https://perfectimagecamera.com/wp-content/uploads/2018/02/DSLR-camera-perfect-image.jpg",
+			"name": "Camera",
+			"price": "1000"
+		},
+		{
+			"img": "https://perfectimagecamera.com/wp-content/uploads/2018/02/DSLR-camera-perfect-image.jpg",
+			"name": "Camera",
+			"price": "1000"
+		}
+	]
+}

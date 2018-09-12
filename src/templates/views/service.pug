@@ -1,0 +1,7 @@
+.row
+	.col-md-3(ng-repeat="product in data")
+		figure
+			img.img-fluid(src="{{product.img}}", alt="", srcset="")
+			figcaption
+				h2 {{product.name}}
+				p {{product.price}}

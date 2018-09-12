@@ -3,4 +3,5 @@ angular.module('app.controllers', [
 	'menu.controller',
 	'home.controller',
 	'about.controller',
+	'service.controller',
 ])

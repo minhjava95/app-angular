@@ -1,3 +1,6 @@
 .row
-	.col
-		p {{data}}
+	.col-md-4(ng-repeat="staff in data")
+		p Name: {{staff.Name}}
+		p City: {{staff.City}}
+		p Country: {{staff.Country}}
+
